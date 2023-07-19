@@ -1,0 +1,8 @@
+**/*.jpg
+**/*.png
+**/*.jpeg
+**/*.wbep
+venv
+__pycache__
+.idea
+**/*.pt
