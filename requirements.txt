@@ -1,9 +1,10 @@
-Flask
+Flask~=2.3.2
 opencv-python~=4.8.0.74
 keras~=2.1.5
 tensorflow
-ultralytics
+ultralytics~=8.0.136
 numpy
 requests
 Werkzeug
 Flask-Cors
+waitress~=2.1.2
